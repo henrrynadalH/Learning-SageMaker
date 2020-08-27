@@ -1,3 +1,3 @@
 # learning-sagemaker
 
-Repository to experimento with AWS Sagemaker
+Repository to experiment with AWS Sagemaker
