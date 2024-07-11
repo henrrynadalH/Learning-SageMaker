@@ -1,4 +1,4 @@
 # learning-sagemaker
 
-Repository to experiment with AWS Sagemaker
+This is a Repository to experiment with AWS Sagemaker to learn more
 This is the end
